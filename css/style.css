@@ -75,13 +75,13 @@ nav a span {
   opacity: 0.4 !important;
 }
 
-nav:hover a {
+/* nav:hover a {
   opacity: 0.4;
 }
 
 nav a:hover {
   opacity: 0.8;
-}
+} */
 
 ::selection {
   background: rgba(0, 0, 0, 0.2);
