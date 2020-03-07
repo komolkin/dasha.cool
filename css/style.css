@@ -55,15 +55,11 @@ a {
 .description {
   position: fixed;
   padding: 40px;
-  max-width: 540px;
+  max-width: 560px;
 }
 
 .description h2 {
   margin-bottom: -4px;
-}
-
-.description h2 span {
-  font-weight: bolder;
 }
 
 .description p {
