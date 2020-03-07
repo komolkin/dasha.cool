@@ -14,7 +14,8 @@
 
 html {
   background: #91d2ee;
-  transition: all 0.1s ease-in-out;
+  transition-duration: 0.4s;
+  transition-timing-function: cubic-bezier(0.15, 0.75, 0.45, 0.95);
   animation: colors 40s infinite;
 
   padding: 0;
