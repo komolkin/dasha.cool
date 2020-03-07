@@ -15,7 +15,7 @@
 html {
   background: #91d2ee;
   transition: all 0.1s ease-in-out;
-  animation: colors 20s infinite;
+  animation: colors 40s infinite;
 
   padding: 0;
   margin: 0;
