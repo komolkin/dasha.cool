@@ -59,6 +59,9 @@ a {
   font-weight: 800;
   transition: all 0.1s ease-in-out;
   animation: colors 20s infinite;
+
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .description p {
