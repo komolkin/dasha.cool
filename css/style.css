@@ -55,26 +55,22 @@ a {
 }
 
 .description h2 {
-  color: #91d2ee;
-  font-weight: 800;
-  transition: all 0.1s ease-in-out;
-  animation: colors 20s infinite;
-
   margin-bottom: 0;
   padding-bottom: 0;
 }
 
-.description p {
-  color: rgba(0, 0, 0, 0.4);
-  font-weight: 600;
+.description h2 span {
+  color: #91d2ee;
+  transition: all 0.1s ease-in-out;
+  animation: colors 20s infinite;
 }
 
-nav {
-  font-weight: 600;
+.description p {
+  color: rgba(0, 0, 0, 0.4);
 }
 
 nav a {
-  display: inline-block;
+  display: inline;
   opacity: 0.8;
 }
 
