@@ -72,11 +72,11 @@ nav a span {
 }
 
 nav:hover a {
-  opacity: 0.8;
+  opacity: 0.6;
 }
 
 nav a:hover {
-  opacity: 0.6;
+  opacity: 0.8;
 }
 
 ::selection {
