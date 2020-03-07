@@ -13,7 +13,10 @@
 }
 
 html {
-  background: #ffffff;
+  background: #91d2ee;
+  transition: all 0.1s ease-in-out;
+  animation: colors 20s infinite;
+
   padding: 0;
   margin: 0;
 }
@@ -55,14 +58,11 @@ a {
 }
 
 .description h2 {
-  color: #999999;
   margin-bottom: -6px;
 }
 
 .description h2 span {
-  color: #91d2ee;
-  transition: all 0.1s ease-in-out;
-  animation: colors 20s infinite;
+  font-weight: bolder;
 }
 
 .description p {
@@ -108,15 +108,15 @@ nav a:hover {
 @keyframes colors {
   0%,
   100% {
-    color: #91d2ee;
+    background-color: #91d2ee;
   }
   25% {
-    color: #feda03;
+    background-color: #feda03;
   }
   50% {
-    color: #ef4833;
+    background-color: #ef4833;
   }
   75% {
-    color: #d9c2ee;
+    background-color: #d9c2ee;
   }
 }
