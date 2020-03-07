@@ -59,7 +59,7 @@ a {
 }
 
 .description p {
-  color: rgba(0, 0, 0, 0.6);
+  color: rgba(0, 0, 0, 0.4);
 }
 
 nav a {
@@ -68,11 +68,11 @@ nav a {
 }
 
 nav a span {
-  opacity: 0.6 !important;
+  opacity: 0.4 !important;
 }
 
 nav:hover a {
-  opacity: 0.6;
+  opacity: 0.4;
 }
 
 nav a:hover {
