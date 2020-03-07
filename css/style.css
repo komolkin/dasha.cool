@@ -60,6 +60,8 @@ a {
 
 p {
   opacity: 0.6;
+  padding: 0;
+  margin: 0;
 }
 
 nav a {
