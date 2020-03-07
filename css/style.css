@@ -27,7 +27,7 @@ body {
     Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 1.2em;
+  font-size: 4em;
   line-height: 1.5;
 }
 
@@ -56,7 +56,6 @@ a {
 .description {
   position: fixed;
   padding: 40px;
-  max-width: 540px;
 }
 
 .description h2 {
