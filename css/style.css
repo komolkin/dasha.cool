@@ -55,8 +55,8 @@ a {
 }
 
 .description h2 {
-  margin-bottom: 0;
-  padding-bottom: 0;
+  color: #999999;
+  margin-bottom: -10px;
 }
 
 .description h2 span {
