@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Dasha Makurina</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <link rel="stylesheet" href="css/style.css" />
+    <script language="JavaScript">
+      var scrl = "Dasha Makurina · Graphic Designer · ";
+      function scrlsts() {
+        scrl = scrl.substring(1, scrl.length) + scrl.substring(0, 1);
+        document.title = scrl;
+        setTimeout("scrlsts()", 300);
+      }
+    </script>
+  </head>
+  <body onLoad="scrlsts()">
+	<div class="description">
+		<h3 class="animate fadeInUp queue3s">
+			Dasha Makurina
+			</br>Graphic Designer
+		</h3>
+		<nav class="animate fadeInUp queue4s">
+			<a href="https://behance.net"><span>Portfolio on </span>Behance</a>
+            <a href="https://instagram.com/dasha.20.03/"><span>Documenting on </span>Instagram</a>
+            <a href="https://open.spotify.com/playlist/542rkbeL3fBRNfcJoIwIIX?si=5UaHEpN6TS-ZSyGNhIVIHg"><span>Playlist on </span>Spotify</a>
+		</nav>
+	</div>
+  </body>
+</html>
