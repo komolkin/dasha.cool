@@ -59,7 +59,7 @@ a {
   padding: 0;
 }
 
-p {
+.description p {
   color: rgba(0, 0, 0, 0.6);
 }
 
