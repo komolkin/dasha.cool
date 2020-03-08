@@ -53,6 +53,17 @@ a {
   font-weight: 600;
 }
 
+.image {
+  position: fixed;
+  right: 0;
+  padding: 40px;
+}
+
+.image img {
+  width: 50%;
+  height: 50%;
+}
+
 .description {
   position: fixed;
   padding: 40px;
