@@ -59,14 +59,14 @@ a {
 }
 
 .image img {
-  padding: 40px;
+  padding: 40px 40px 0 40px;
   width: 200px;
   height: 200px;
 }
 
 .description {
   position: fixed;
-  padding: 40px;
+  padding: 0 40px 40px 40px;
 }
 
 .description h2 {
