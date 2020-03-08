@@ -54,8 +54,6 @@ a {
 }
 
 .image img {
-  position: fixed;
-  right: 0;
   padding: 40px;
   width: 200px;
   height: 200px;
